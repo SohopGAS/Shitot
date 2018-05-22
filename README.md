@@ -21,5 +21,13 @@
 5. [Class Diagrams](https://drive.google.com/open?id=1A8GHJp1ZlUjVEwwQ1OGTadKxX6Gvgkxr)<br/>
 
 **Applications** <br/>
-1. Text Box
-2. Check List
+1. Label
+2. Button
+3. TextBox (implemented)
+4. NumericBox
+5. ComboBox
+6. CheckList (implemented)
+7. RadioBox
+8. Panel
+9. MessageBox
+10. General Interface
