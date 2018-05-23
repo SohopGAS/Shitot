@@ -34,3 +34,4 @@
 
 **Gantt** <br/>
 [Click here](https://drive.google.com/open?id=1r-U7RpdeBVal__wXqKhmSPBMG7eRZ4t5)<br/>
+Using GanttProject software to open this file :-)
