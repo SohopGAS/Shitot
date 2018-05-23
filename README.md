@@ -31,3 +31,6 @@
 8. Panel
 9. MessageBox
 10. General Interface
+
+**Gantt** <br/>
+[Click here](https://drive.google.com/open?id=1r-U7RpdeBVal__wXqKhmSPBMG7eRZ4t5)<br/>
