@@ -33,5 +33,6 @@
 10. General Interface
 
 **Gantt** <br/>
-[Click here](https://drive.google.com/open?id=1fsDKocAYe8KjW_8ReJjM6AEzWAfouykV)<br/>
+[.png](https://drive.google.com/open?id=1fsDKocAYe8KjW_8ReJjM6AEzWAfouykV)<br/>
+[.gan](https://drive.google.com/open?id=1HeoS-8mRvL8G1xtiuBxetgYnGqiCSr9g)<br/>
 Using GanttProject software to open this file :-)
